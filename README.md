@@ -1,16 +1,26 @@
-### Hi there 👋
+## goosebeomsu 👋
 
-<!--
-**goosebeomsu/goosebeomsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junior Back-end web developer**
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Java-937062?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squere&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squere&logo=MySQL&logoColor=white"/>  
+</p>
+
+### Tools
+
+<p>
+  <img src="https://camo.githubusercontent.com/f8e55e4a35278ded3d7b8de32d77eed689464e93e66d4c95e0749bdbe86e0f44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d496e74656c6c694a25323049444541266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>  
+
+### Blog
+
+<p>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</p>
