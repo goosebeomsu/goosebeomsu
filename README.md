@@ -24,3 +24,8 @@
 <p>
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </p>
+
+### Contact
+
+<img src="https://img.shields.io/badge/G_mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> captain9697@gmail.com</br>
+
