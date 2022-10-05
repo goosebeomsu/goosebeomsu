@@ -6,8 +6,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-937062?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squere&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squere&logo=MySQL&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squere&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-FF4848?style=flat-square&logo=oracle&logoColor=white"> 
 </p>
 
 ### Tools
@@ -22,7 +24,7 @@
 ### Blog
 
 <p>
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+    <a href="https://captain9697.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
 ### Contact
